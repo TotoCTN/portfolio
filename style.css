@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header {
+display: flex;
+align-items: center;
+margin: 0 50px;
+margin-bottom: 20px;
+}
+
+nav {
+    width: 50%;
+}
+
+ul {
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+}
+
+#titre {
+    width: 50%;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+div {
+display: flex;
+justify-content: end;
+width: 50%;
+
+}
